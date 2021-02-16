@@ -12,18 +12,15 @@ h4 {
   text-align: center;
 }
 button {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+   display: flex;
+  justify-content: center;
+  align-items: center;
   width: 24%;
 }
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 500px;
-  width: 1000px;
-}
-footer {
-  background-color: rgb(212, 14, 11);
-}
+  height: 420px;
+  width: 920px;
+
